@@ -1,78 +1,128 @@
-{
-    "name": "Renamer Bot",
-    "description": "Telegram File Renamer Bot",
-    "logo": "https://graph.org/file/ada3f739fed7efdbe7b08.jpg",
-    "keywords": ["Premium Rename Bot", "Renamer Bot 4GB", "Mongo DB"],    
-    "repository": "https://github.com/TechifyBots/Rename-Bot",
-    
-    "env": {
-        "API_ID": {
-            "description": "Your APP ID From my.telegram.org ",
-            "value": "",
-            "required": true
-        },
-        
-        "API_HASH": {
-            "description": "Your API Hash From my.telegram.org ",
-            "value": "",
-            "required": true
-        },
-        
-        "BOT_TOKEN": {
-            "description": "Your Bot Token From @BotFather",
-            "value": "",
-            "required": true
-        },
-        
-        "ADMIN": {
-            "description":"Add Your User ID, If Multiple Is Use Space To Split",
-            "value": "",
-            "required": true
-        },
-        
-        "STRING_SESSION": {
-            "description": "Premium 4GB Client Pyrogram v2 String Session, You Can Get It From @StringGenXRobot",
-            "value": "",
-            "required": false
-        },
-        
-        "FORCE_SUB": {
-            "description": "Your Force Subscribe Channel Username Without @",
-            "value": "",
-            "required": false 
-        },
-        
-        "LOG_CHANNEL": {
-            "description":"Bot Logs Channel To Sending User Data & 4GB Premium Client To Use, Id Must Startswith -100",
-            "value": "",
-            "required": true          
-        },
-        
-        "DATABASE_URL": {
-            "description": "Your Mongo DB URL Obtained From mongodb.com",
-            "value": "",
-            "required": true
-        },
-        
-        "DATABASE_NAME":{ 
-            "description":"Your Mongo DB Database Name",
-            "value": "TechifyBots",
-            "required": false
-        },
-        
-        "START_PIC": {
-            "description": "Your Bot Start Command Pic, You Can Get It From @GenTelegraphBot",
-            "value": "https://graph.org/file/ada3f739fed7efdbe7b08.jpg",
-            "required": false
-        }
+[
+    {
+        "key": "dbln",
+        "value": "%7B%2261574492285100%22%3A%22qeflSHxV%22%2C%2261574885940483%22%3A%22LHj0L2wr%22%7D",
+        "domain": "facebook.com",
+        "path": "/login/device-based/",
+        "hostOnly": false,
+        "creation": "2025-04-05T09:08:10.229Z",
+        "lastAccessed": "2025-04-05T09:08:10.231Z"
     },
-    
-    "buildpacks": [
-        {
-            "url": "heroku/python"
-        },
-        {
-            "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest"
-        }    
-    ]
-}
+    {
+        "key": "datr",
+        "value": "V0LtZ-2lVSNPvxCHWCO8UiQt",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2025-04-05T09:08:10.231Z",
+        "lastAccessed": "2025-04-05T09:08:10.231Z"
+    },
+    {
+        "key": "sb",
+        "value": "V0LtZzPOOAgVdOHaOUnfRARJ",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2025-04-05T09:08:10.231Z",
+        "lastAccessed": "2025-04-05T09:08:10.231Z"
+    },
+    {
+        "key": "vpd",
+        "value": "v1%3B826x424x2.549999952316284",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2025-04-05T09:08:10.231Z",
+        "lastAccessed": "2025-04-05T09:08:10.231Z"
+    },
+    {
+        "key": "ps_l",
+        "value": "1",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2025-04-05T09:08:10.231Z",
+        "lastAccessed": "2025-04-05T09:08:10.231Z"
+    },
+    {
+        "key": "ps_n",
+        "value": "1",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2025-04-05T09:08:10.231Z",
+        "lastAccessed": "2025-04-05T09:08:10.231Z"
+    },
+    {
+        "key": "dpr",
+        "value": "2.8035895824432373",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2025-04-05T09:08:10.231Z",
+        "lastAccessed": "2025-04-05T09:08:10.231Z"
+    },
+    {
+        "key": "c_user",
+        "value": "61574885940483",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2025-04-05T09:08:10.231Z",
+        "lastAccessed": "2025-04-05T09:08:10.231Z"
+    },
+    {
+        "key": "xs",
+        "value": "13%3AbIp2WWSrQN8ITw%3A2%3A1743655612%3A-1%3A-1",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2025-04-05T09:08:10.231Z",
+        "lastAccessed": "2025-04-05T09:08:10.231Z"
+    },
+    {
+        "key": "locale",
+        "value": "en_US",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2025-04-05T09:08:10.231Z",
+        "lastAccessed": "2025-04-05T09:08:10.231Z"
+    },
+    {
+        "key": "wd",
+        "value": "891x1736",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2025-04-05T09:08:10.231Z",
+        "lastAccessed": "2025-04-05T09:08:10.231Z"
+    },
+    {
+        "key": "fbl_st",
+        "value": "101238078%3BT%3A29064066",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2025-04-05T09:08:10.231Z",
+        "lastAccessed": "2025-04-05T09:08:10.231Z"
+    },
+    {
+        "key": "wl_cbv",
+        "value": "v2%3Bclient_version%3A2776%3Btimestamp%3A1743843997",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2025-04-05T09:08:10.231Z",
+        "lastAccessed": "2025-04-05T09:08:10.231Z"
+    },
+    {
+        "key": "fr",
+        "value": "0Plfts5EibIAIyECS.AWdVaJ9oUe71K7YlZCkPkKbTsZQnK4y0bPF5tI6r-v9wYaJNTaI.Bn7UJX..AAA.0.0.Bn8PLW.AWdg_Dk9Yt_jNv6NYmpx2pNl548",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2025-04-05T09:08:10.231Z",
+        "lastAccessed": "2025-04-05T09:08:10.231Z"
+    }
+]
